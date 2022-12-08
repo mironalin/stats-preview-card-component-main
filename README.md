@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://www.github.com/stats-preview-card-component-main/](https://www.github.com/stats-preview-card-component-main/)
+- Live Site URL: [https://mironalin.github.io/stats-preview-card-component-main/](https://mironalin.github.io/stats-preview-card-component-main/)
 
 ### Built with
 
